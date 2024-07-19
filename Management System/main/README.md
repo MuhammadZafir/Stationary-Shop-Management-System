@@ -1,6 +1,6 @@
 # Stationary-Shop-Management
 
-Stationary Shop Management using OOP from the book [Object Oriented Programming](http://dimik.pub/book/588/object-oriented-programming) by [Zohirul Alam Tiemoon](https://github.com/tiemoon). This project is wholly written in Java instead of C# as it is in the book.
+Stationary Shop Management using OOP from the book [Object Oriented Programming](http://dimik.pub/book/588/object-oriented-programming) by [Muhammad Zafir]. This project is wholly written in Java instead of C# as it is in the book.
 
 ![cover](https://raw.githubusercontent.com/theanasuddin/Stationary-Shop-Management/main/cover.png)
 
